@@ -1,0 +1,40 @@
+body{
+    background-color:lightgrey;background-image: ;
+}
+#h1{
+    color:#0a0a0a;
+    text-align:center;border:5px black ;background-color:whitesmoke;border-width:100%;
+    border-radius: 10px;
+}
+a:link{
+    padding:20px;font-family:Arial, Helvetica, sans-serif;
+}
+a:hover{
+    background-color: white;border-radius:30px;color:#0a0a0a;
+}
+#para{
+    font-family: 'Courier New', Courier, monospace;font-style: oblique;font-size: large;color:darkblue;
+}
+#div{
+    color:black
+}
+h3{
+    text-align: center;
+}
+#pp{
+    font-family:Arial;padding:10px;
+}
+#three{
+    display:flex;justify-content: space-between;
+    font-size: larger;padding:10px;
+    
+    }
+
+
+img{
+    width:300px;height:300px;
+}
+video{
+    width:500px;height:200px;
+}
+
